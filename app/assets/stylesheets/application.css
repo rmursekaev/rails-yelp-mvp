@@ -13,3 +13,12 @@
  *= require_tree .
  *= require_self
  */
+.container {
+  text-align: center;
+  width: 400px;
+}
+
+.list-group-item {
+  margin-left: 400px;
+  width: 150px;
+}
